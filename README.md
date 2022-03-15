@@ -10,7 +10,10 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 https://public.tableau.com/app/profile/babatunde.raji
 ## Screenshots
 ### 1. Hollywood Econometric Analysis Dashboard
-https://github.com/Kile-kun/Data-Visualization-Projects/blob/main/Hollywood%20Econometric%20analysis.PNG?raw=true
+
+<img width="786" alt="Hollywood Econometric analysis" src="https://user-images.githubusercontent.com/97529068/158351343-69d28d06-f83b-451a-a103-0d5d8a56e48a.PNG">
+
+
 ## What I Learnt in Tableau:
 
   - To create interactive dashboards and publish it online to share
